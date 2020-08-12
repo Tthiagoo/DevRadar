@@ -4,7 +4,7 @@
 ![kisspng-macbook-pro-imac-apple-computer-desktop-pc-5ad748369bf074 5005483115240581666387 (3)](https://user-images.githubusercontent.com/51219408/88708977-dbfdf600-d0ea-11ea-9ef9-1e2e5a99a500.png)![phone model dev](https://user-images.githubusercontent.com/51219408/90055721-2d45e200-dcb4-11ea-9e38-8f1f3394fb98.png)
 
 
-## Instalação das dependências :computer:
+## Instalação das dependências :wrench:
 <p>Execute esse comando em seu terminal na pasta do projeto</p>
 
 ```sh
@@ -19,6 +19,9 @@ yarn install
 - [Socket.io](https://socket.io/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
+
+## Demo :computer:
+- [Entre nesse link para ver uma demonstração do projeto desktop](https://radardev-web.netlify.app/)
 
 ## Como contribuir :question:
 
