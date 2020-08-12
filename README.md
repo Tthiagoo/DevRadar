@@ -1,7 +1,8 @@
 # DevRadar
  >Este Projeto visa encontrar pessoas que trabalham com a mesma tecnologia que você através de Geolocalização:mag:
 
-![kisspng-macbook-pro-imac-apple-computer-desktop-pc-5ad748369bf074 5005483115240581666387 (3)](https://user-images.githubusercontent.com/51219408/88708977-dbfdf600-d0ea-11ea-9ef9-1e2e5a99a500.png)![iphone q dev](https://user-images.githubusercontent.com/51219408/88709049-f506a700-d0ea-11ea-8cae-a8e29dbcb4f3.jpg)
+![kisspng-macbook-pro-imac-apple-computer-desktop-pc-5ad748369bf074 5005483115240581666387 (3)](https://user-images.githubusercontent.com/51219408/88708977-dbfdf600-d0ea-11ea-9ef9-1e2e5a99a500.png)!![phone model dev](https://user-images.githubusercontent.com/51219408/90055721-2d45e200-dcb4-11ea-9e38-8f1f3394fb98.png)
+
 
 ## Instalação das dependências :computer:
 <p>Execute esse comando em seu terminal na pasta do projeto</p>
