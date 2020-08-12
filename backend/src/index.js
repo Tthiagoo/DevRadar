@@ -11,13 +11,16 @@ const server = http.Server(app);
 
 setupWebsocket(server);
 
-mongoose.connect('mongodb+srv://omnistack:omnistack@cluster0-kdxee.mongodb.net/week10?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://thiago:thiago@cluster0-vnyql.mongodb.net/devradar?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
-
+   
 app.use(cors());
 app.use(express.json());
 app.use(routes);
 
-server.listen(3333);
+const PORT = process.env.PORT || 3333
+server.listen(PORT,()=>{
+  console.log('Servidor rodando')
+});
