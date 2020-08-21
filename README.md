@@ -1,9 +1,11 @@
 # DevRadar
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d58f88fe-2ee0-48ec-8b1d-b5a722718e37/deploy-status)](https://app.netlify.com/sites/radardev-web/deploys)     ![npm (custom registry)](https://img.shields.io/npm/v/npm/latest?style=plastic)  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
  >Este Projeto visa encontrar pessoas que trabalham com a mesma tecnologia que você através de Geolocalização:mag:
 
-![kisspng-macbook-pro-imac-apple-computer-desktop-pc-5ad748369bf074 5005483115240581666387 (3)](https://user-images.githubusercontent.com/51219408/88708977-dbfdf600-d0ea-11ea-9ef9-1e2e5a99a500.png)![iphone q dev](https://user-images.githubusercontent.com/51219408/88709049-f506a700-d0ea-11ea-8cae-a8e29dbcb4f3.jpg)
+![kisspng-macbook-pro-imac-apple-computer-desktop-pc-5ad748369bf074 5005483115240581666387 (3)](https://user-images.githubusercontent.com/51219408/88708977-dbfdf600-d0ea-11ea-9ef9-1e2e5a99a500.png)![phone model dev](https://user-images.githubusercontent.com/51219408/90055721-2d45e200-dcb4-11ea-9e38-8f1f3394fb98.png)
 
-## Instalação das dependências :computer:
+
+## Instalação das dependências :wrench:
 <p>Execute esse comando em seu terminal na pasta do projeto</p>
 
 ```sh
@@ -19,7 +21,10 @@ yarn install
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 
-## Como contribuir :question:
+## Demo :computer:
+- [Entre nesse link para ver uma demonstração do projeto desktop](https://radardev-web.netlify.app/)
+
+## Como contribuir :question: 
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
@@ -31,3 +36,5 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## License :page_with_curl:
 [MIT](https://choosealicense.com/licenses/mit/)
+
+### Criado na edição Omnistack 10 by Rocketseat :rocket:
